@@ -4,7 +4,6 @@ import util.*;
 import java.util.HashMap;
 import java.util.Map;
 
-class question_{
 //给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。 
 //
 // 示例 1: 
@@ -52,5 +51,3 @@ class Solution {
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
-
-}
